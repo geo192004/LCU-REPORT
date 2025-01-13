@@ -1,7 +1,6 @@
 # LCU-REPORT
 Fictional Stories
 
-Here’s a suggested README.md for your repository:
 
 LCU Report 📖🎥
 Welcome to the Lokesh's Cinematic Universe (LCU) Report, your one-stop repository for all updates, ideas, and sneak peeks into the upcoming projects of this fictional cinematic universe!
